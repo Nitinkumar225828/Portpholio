@@ -45,7 +45,7 @@ import upBordLogo from './assets/education_logo/upBord.png';
 // Project Section Logo's
 import Doctorlogo from './assets/work_logo/DoctorLogo.png';
 import csprepLogo from './assets/work_logo/ShopNestLogo.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import LearShare from './assets/work_logo/LearnShare.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
@@ -227,16 +227,16 @@ export const SkillsInfo = [
       github: "https://github.com/Nitinkumar225828/ShopNest-E-commerce-website",
       webapp: "https://shopnestnew.netlify.app/",
     },
-    // {
-    //   id: 2,
-    //   title: "Movie Recommendation App",
-    //   description:
-    //     "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-    //   image: movierecLogo,
-    //   tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-    //   github: "https://github.com/codingmastr/Movie-Recommendation-App",
-    //   webapp: "https://movie-recommendation-app-jet.vercel.app/",
-    // },
+    {
+      id: 2,
+      title: "LearnShare - Online Learning Platform",
+      description:
+        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+      image: LearShare,
+      tags: ["React JS", "API", "HTML", "CSS", "JavaScript", "Responsive Design", "Node.js", "Express.js", "MongoDB"],
+      github: "https://github.com/Nitinkumar225828/LearShare",
+      webapp: "https://gentle-heliotrope-c17d6a.netlify.app/",
+    },
     // {
     //   id: 3,
     //   title: "Email Validator NPM Package",
